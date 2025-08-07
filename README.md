@@ -51,5 +51,6 @@ Desarrollador frontend apasionado por el diseño web moderno, funcional y accesi
 
 Gracias por visitar mi perfil 🙌  
 ¡Conectemos y creemos algo increíble!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L21JCEFX)
 
 
