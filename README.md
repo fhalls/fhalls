@@ -30,10 +30,10 @@ Desarrollador frontend apasionado por el diseño web moderno, funcional y accesi
 ## 🚀 Portafolio y redes
 
 - 🌐 [fhalls.xyz](https://fhalls.xyz) — Mi sitio web personal
-- 💬 Discord: `fhalls#0001`
+- 💬 [Discord](https://discord.gg/8SrNFesKTN)
 - ✈️ [Telegram](https://t.me/fhalls)
-- 📸 [Instagram](https://instagram.com/fhallls)
-- 🐦 [X (Twitter)](https://x.com/fhallls)
+- 📸 [Instagram](https://instagram.com/fhalls_)
+- 🐦 [X (Twitter)](https://x.com/fhalls_)
 
 ---
 
